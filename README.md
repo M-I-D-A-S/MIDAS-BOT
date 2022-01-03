@@ -1,5 +1,8 @@
 # MIDAS-BOT
-This is a bot specifically developed and created for the rollercoin website. Its use is simple and intuitive. ,then, you just have to run the executable (rollercoin_game), and then follow the instructions.
+This is a bot specifically developed and created for the rollercoin website. Its use is simple and intuitive. 
+To install the zip go to the "code" section of this page and select the option to download zip, then you will only have to extract it and finish.
+
+You just have to run the executable (rollercoin_game), and then follow the instructions.
 
 If you don´t have a account yet, you can create one through this link
 
