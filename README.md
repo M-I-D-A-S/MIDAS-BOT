@@ -1,7 +1,7 @@
 # MIDAS-BOT
 This is a bot specifically developed and created for the rollercoin website. Its use is simple and intuitive. 
 To install it you have to follow this link:
-
+  https://drive.google.com/drive/folders/1ZKNrkyQwBwk-T5ENG4Xqr0aYICzFkPxF?usp=sharing
 
 (There you hace to dowload everything inside, and save it in a folder) Dont´t forget the images Ow0
 
