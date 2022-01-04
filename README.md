@@ -18,4 +18,6 @@ If you want to donate to me "MIDAS" you can do it in this BTC direction: 3LS9P4g
 
 For any problem or doubt write to the following gmail: midascorporation6@gmail.com
 
+If you want to contact me personally, to resolve a question or request a service, go to this email: abcdefghijklmnopqrstzye@protonmail.com
+
 Thanks for downloading and share if you liked it :3
