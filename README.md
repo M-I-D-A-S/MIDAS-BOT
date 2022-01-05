@@ -9,6 +9,8 @@ To install it you have to follow this link:
 
 (There you hace to dowload everything inside, and save it in a folder) Dont´t forget the images Ow0
 
+TUTORIAL: https://youtu.be/P1bdPvZdTtU
+
 Don't worry if when you try to download the exe it informs you that it may be a virus. This occurs because it is a program designed to use the computer, in this case rollercoin, automatically, without the need for the user to be present.
 
 You just have to run the executable (rollercoin_game), and then follow the instructions.
