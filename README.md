@@ -2,7 +2,9 @@
 This is a bot specifically developed and created for the rollercoin website. Its use is simple and intuitive.
 
 If you don´t have a account yet, you can create one through this link: 
-  https://rollercoin.com/?r=kvj73fm4
+  
+								https://rollercoin.com/?r=kvj73fm4
+							
   
 To install it you have to follow this link:
  https://mega.nz/file/J1ll2Q5K#hzxM7j00QxmycZJN89e_fDSJOmd7aFKtDG3xvfrHi1c
